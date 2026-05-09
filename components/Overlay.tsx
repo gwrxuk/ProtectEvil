@@ -5,7 +5,7 @@ import type { StatsPayload } from "@/lib/types";
 
 const ART_STATEMENT_EN = `Shield & Scatter is a data portrait built from a non-probability convenience sample of public Threads posts captured in April–May 2026 around Taiwan’s 2023 junior-high neck-cutting homicide and its legal aftermath. Each luminous orb is one deduplicated post row; size encodes displayed “likes,” hue encodes the Traditional-Chinese search surface that surfaced it, and a cooler tint marks institutional press handles. A slowly rotating wire veil stands in for layered juvenile-data shields—legal opacity that can shelter offenders’ identities while victims’ civil files may remain structurally exposed. The extreme skew (high Gini) is not decorative: it shows how a handful of viral posts concentrate attention while statutory silence frustrates symmetric review. This piece does not celebrate outrage; it visualises the informational geometry produced when rehabilitation statutes, personal-data law, and cross-border speech collide without a reconciling design.`;
 
-const CONTEXT_ZH = `《護盾與星屑》以 2026 年 4–5 月間、於 Threads 公開版面爬梳並去重後的案例帖子為資料來源（非隨機便利樣本），指向 2023 年新北國中割頸案及其司法後續。作品假設：少年司法與個資法制意在保護未成年人與資料主体，但在本案的公共討論中，法定資訊屏障、跨境言論與民事卷宗的結構性曝光並未形成對稱保護——被害與加害在「可看見／不可看見」上的落差，本身即成為社會認知的材料。
+const CONTEXT_ZH = `《護盾與星屑》以 2026 年 4–5 月間、於 Threads 公開版面爬梳並去識別後的案例帖子為資料來源（非隨機便利樣本），指向 2023 年新北國中割頸案及其司法後續。作品假設：少年司法與個資法制意在保護未成年人與資料主體，但在本案的公共討論中，法定資訊屏障、跨境言論與民事卷宗的結構性曝光並未形成對稱保護——被害與加害在「可看見／不可看見」上的落差，本身即成為社會認知的材料。
 
 互動方式：拖曳旋轉視角、滾輪縮放；游標懸停可讀取使用者代號與搜尋詞（中英對照）；下方滑桿可依「愛心數」下限過濾帖子，觀察輿論重量如何集中在少數節點。`;
 
