@@ -1,0 +1,33 @@
+:root {
+  --bg: #07090f;
+  --fg: #e8ecf4;
+  --muted: #8b95a8;
+  --accent: #c45c4a;
+  --shield: rgba(120, 140, 180, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: ui-sans-serif, system-ui, "Segoe UI", "PingFang TC",
+    "Microsoft JhengHei", sans-serif;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+/* bilingual panel scrollbar */
+.panel-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #3a4458 var(--bg);
+}

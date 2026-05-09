@@ -1,0 +1,206 @@
+{
+  "frame": "extended (legacy 21-Apr 2026 + multi-query 8-May 2026 captures, unique by (username, post_date_label))",
+  "n_rows_unique": 86,
+  "n_rows_legacy": 20,
+  "n_rows_extended": 68,
+  "queries_2026_05_08": [
+    "割頸",
+    "乾哥乾妹",
+    "少年事件法",
+    "楊爸"
+  ],
+  "search_screenshots_2026_05_08": [
+    "evidence/threads_search/search_geging_top_p1_2026-05-08.png",
+    "evidence/threads_search/search_ganggemei_top_p1_2026-05-08.png",
+    "evidence/threads_search/search_ganggemei_top_p2_2026-05-08.png",
+    "evidence/threads_search/search_juvenile_law_top_p1_2026-05-08.png",
+    "evidence/threads_search/search_yangba_top_p1_2026-05-08.png"
+  ],
+  "likes": {
+    "n": 86,
+    "min": 7.0,
+    "max": 87400.0,
+    "mean": 9339.406976744185,
+    "median": 2300.0,
+    "stdev": 16564.956012709772,
+    "sum": 803189.0
+  },
+  "replies": {
+    "n": 85,
+    "min": 1.0,
+    "max": 2100.0,
+    "mean": 199.12941176470588,
+    "median": 90.0,
+    "stdev": 327.95578201639194,
+    "sum": 16926.0
+  },
+  "reposts": {
+    "n": 76,
+    "min": 1.0,
+    "max": 4300.0,
+    "mean": 259.86842105263156,
+    "median": 83.5,
+    "stdev": 604.703284641435,
+    "sum": 19750.0
+  },
+  "shares": {
+    "n": 77,
+    "min": 1.0,
+    "max": 7100.0,
+    "mean": 316.06493506493507,
+    "median": 65.0,
+    "stdev": 879.6194203604902,
+    "sum": 24337.0
+  },
+  "concentration": {
+    "top1_share_of_likes": 0.1088,
+    "top3_share_of_likes": 0.2656,
+    "top5_share_of_likes": 0.3759,
+    "top10_share_of_likes": 0.6019,
+    "gini_likes": 0.7421
+  },
+  "press_concentration": {
+    "institutional_handles_in_set": [
+      "chinatimessocial",
+      "ettodaytw",
+      "myudn",
+      "plainlaw.me",
+      "tvbslivenews"
+    ],
+    "n_institutional_rows": 6,
+    "institutional_share_of_total_likes": 0.0831,
+    "institutional_total_likes": 66757
+  },
+  "engagement_intensity": {
+    "median_replies_per_like_for_likes_ge_50": 0.0397,
+    "n_for_replies_per_like_for_likes_ge_50": 73
+  },
+  "focal_post_xxcc1080_t3_vs_corpus": {
+    "focal_likes_t3": 154000,
+    "focal_replies_t3": 1300,
+    "corpus_median_likes": 2300.0,
+    "corpus_p90_likes": 32750.0,
+    "corpus_p95_likes": 42250.0,
+    "focal_to_corpus_median_x": 67.0,
+    "focal_to_corpus_p90_x": 4.7,
+    "focal_to_corpus_p95_x": 3.64,
+    "focal_replies_per_like_t3": 0.0084,
+    "median_corpus_replies_per_like": 0.0397
+  },
+  "top_authors_by_total_likes": [
+    {
+      "username": "meiruru1110",
+      "n_posts": 1,
+      "total_likes": 87400
+    },
+    {
+      "username": "zzj_.2337_b",
+      "n_posts": 1,
+      "total_likes": 73600
+    },
+    {
+      "username": "applied_arts_fhk",
+      "n_posts": 1,
+      "total_likes": 52300
+    },
+    {
+      "username": "hdkjh_9",
+      "n_posts": 1,
+      "total_likes": 45800
+    },
+    {
+      "username": "ch_48_19_b",
+      "n_posts": 1,
+      "total_likes": 42800
+    },
+    {
+      "username": "chinatimessocial",
+      "n_posts": 2,
+      "total_likes": 40736
+    },
+    {
+      "username": "cclaccl00992211",
+      "n_posts": 1,
+      "total_likes": 40600
+    },
+    {
+      "username": "mimity.lin",
+      "n_posts": 1,
+      "total_likes": 35400
+    },
+    {
+      "username": "wesley.tang.54",
+      "n_posts": 1,
+      "total_likes": 35300
+    },
+    {
+      "username": "yizhong0217",
+      "n_posts": 1,
+      "total_likes": 30200
+    },
+    {
+      "username": "eremika_je",
+      "n_posts": 1,
+      "total_likes": 27500
+    },
+    {
+      "username": "myudn",
+      "n_posts": 1,
+      "total_likes": 25500
+    },
+    {
+      "username": "annie_chennn82",
+      "n_posts": 1,
+      "total_likes": 21400
+    },
+    {
+      "username": "tvbslivenews_b",
+      "n_posts": 1,
+      "total_likes": 21300
+    },
+    {
+      "username": "zawazudo_0304",
+      "n_posts": 1,
+      "total_likes": 20700
+    }
+  ],
+  "by_query": [
+    {
+      "query": "割頸",
+      "n_posts": 40,
+      "total_likes": 511378,
+      "median_likes": 4600
+    },
+    {
+      "query": "乾哥乾妹",
+      "n_posts": 14,
+      "total_likes": 191689,
+      "median_likes": 3300
+    },
+    {
+      "query": "新北國中生",
+      "n_posts": 18,
+      "total_likes": 49556,
+      "median_likes": 475
+    },
+    {
+      "query": "少年事件法",
+      "n_posts": 9,
+      "total_likes": 48760,
+      "median_likes": 2100
+    },
+    {
+      "query": "楊爸",
+      "n_posts": 5,
+      "total_likes": 1806,
+      "median_likes": 352
+    }
+  ],
+  "limitations": [
+    "Sampling frame: a non-probability convenience sample drawn from authenticated Threads search-results pages on 21 April and 8 May 2026.",
+    "Threads rounds engagement counters in the UI; numeric values are conservative parses (floor of the rounded display string).",
+    "Some posts appear in multiple search queries but are counted once; deduplication uses (username, post_date_label).",
+    "A small number of rows are flagged as possibly off-topic in source_note (e.g., 國軍招募, 清水高中); they are retained in the public-record snapshot but documented for the reader.",
+    "Search-engine ranking is dynamic; a different observer at a different timestamp would obtain a partially overlapping but non-identical set."
+  ]
+}
